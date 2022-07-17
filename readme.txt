@@ -1,4 +1,4 @@
-=== Paid Memberships Pro - Multisite Membership Add On ===
+=== #PMP - Multisite Membership Add On ===
 Contributors: strangerstudios
 Tags: paid memberships pro, pmpro, network, network membership, multisite, wpmu
 Requires at least: 4.4
